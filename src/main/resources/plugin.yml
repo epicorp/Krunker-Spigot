@@ -1,0 +1,16 @@
+name: Epicore114
+version: @version@
+main: net.epicorp.epicore.Epicore
+api-version: 1.13
+commands:
+  krunker:
+    usage: "/krunker <assault_rifle/sniper_rifle/shotgun/revolver/light_machine_gun/sub_machine_gun/famas/retard/akimbo_uzi/semi_auto>"
+    permission-message: "no perms"
+    description: "gives a krunker weapon"
+    aliases: ["/kr"]
+    permission: epicore.krunker
+  startkrunker:
+    usage: "/startkrunker"
+    description: "starts a krunker match"
+    aliases: ["/sk"]
+    permission: epicore.startkrunker

@@ -1,0 +1,6 @@
+rootProject.name = 'EpiCore-1.14'
+include 'EpiCore-Blocks'
+include 'EpiCore-Crafting'
+include 'EpiCore-Items'
+include 'EpiCore-Persistance'
+include 'EpiCore-Utilities'
